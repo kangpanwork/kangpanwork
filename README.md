@@ -10,19 +10,17 @@
 - 😄 兴趣爱好：阅读，写博客
 - ⚡ 为人脚踏实地，态度诚恳，有上进，肯吃苦
 
+### 个人文档
+
+🔭 [https://kangpan.work/EurakaDoc/#/]https://kangpan.work/EurakaDoc/#/
+
+
+### 个人项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=kangpanwork.github.io)](https://github.com/kangpanwork/kangpanwork.github.io.git)
+
+
 ### GitHub 常用的编程语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangpanwork&layout=compact)](https://github.com/kangpanwork/kangpanwork.github.io.git)
 
 ### GitHub 统计卡片
 ![https://github.com/kangpanwork](https://github-readme-stats.vercel.app/api?username=kangpanwork&show_icons=true)
-
-### 个人项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=kangpanwork.github.io)](https://github.com/kangpanwork/kangpanwork.github.io.git)
-
-### 工作时间
-```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-🌆 Daytime    15 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-🌃 Evening    20 commits     ████████████░░░░░░░░░░░░░   51.28% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-```
