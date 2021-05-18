@@ -12,7 +12,7 @@
 
 ### 个人文档
 
-🔭 [https://kangpan.work/EurakaDoc/#/]https://kangpan.work/EurakaDoc/#/
+🔭 [https://kangpan.work/EurakaDoc/#/](https://kangpan.work/EurakaDoc/#/)
 
 
 ### 个人项目
