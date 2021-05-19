@@ -10,6 +10,10 @@
 - 😄 兴趣爱好：阅读，写博客
 - ⚡ 为人脚踏实地，态度诚恳，有上进，肯吃苦
 
+### 个人博客
+
+🔭 [https://kangpan.work/](https://kangpan.work/)
+
 ### 个人文档
 
 🔭 [https://kangpan.work/EurakaDoc/#/](https://kangpan.work/EurakaDoc/#/)
