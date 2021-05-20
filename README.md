@@ -22,7 +22,7 @@
 
 🔭 [https://kangpan.work/JavaDoc/#/](https://kangpan.work/JavaDoc/#/)
 
-更多文档请访问我的仓库
+🔭 [查看更多文档](https://github.com/kangpanwork?tab=repositories)
 
 
 
