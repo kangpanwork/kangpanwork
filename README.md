@@ -16,14 +16,7 @@
 
 ### 个人文档
 
-🔭 [https://kangpan.work/EurakaDoc/#/](https://kangpan.work/EurakaDoc/#/)
-
-🔭 [https://kangpan.work/DockerDoc/#/](https://kangpan.work/DockerDoc/#/)
-
 🔭 [https://kangpan.work/JavaDoc/#/](https://kangpan.work/JavaDoc/#/)
-
-🔭 [查看更多文档](https://github.com/kangpanwork?tab=repositories)
-
 
 
 ### 个人项目
