@@ -20,11 +20,11 @@
 
 
 ### 个人项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=kangpanwork.github.io)](https://github.com/kangpanwork/kangpanwork.github.io.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=jvm)](https://github.com/kangpanwork/jvm.git)
 
 
 ### GitHub 常用的编程语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangpanwork&layout=compact)](https://github.com/kangpanwork/kangpanwork.github.io.git)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangpanwork&layout=compact)](https://github.com/kangpanwork/jvm.git)
 
 ### GitHub 统计卡片
 ![https://github.com/kangpanwork](https://github-readme-stats.vercel.app/api?username=kangpanwork&show_icons=true)
