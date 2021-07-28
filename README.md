@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是 kangpan，一名Java开发工程师，了解前端及架构，懂业务，喜欢写博客文档
+我是 kangpan
 
 - 🔭 E-mail: kangpan_work@163.com
 - 🌱 Github: https://github.com/kangpanwork
