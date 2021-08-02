@@ -20,9 +20,16 @@
 
 🔭 [https://kangpan.work/sourceCode/#/](https://kangpan.work/sourceCode/#/)
 
+🔭 [https://kangpan.work/leetcode/#/](https://kangpan.work/leetcode/#/)
+
 
 ### 个人项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=jvm)](https://github.com/kangpanwork/jvm.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=jvm)(https://github.com/kangpanwork/jvm.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=leetcode)(https://github.com/kangpanwork/leetcode.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kangpanwork&repo=sourceCode)(https://github.com/kangpanwork/sourceCode.git)
+
 
 
 ### GitHub 常用的编程语言
